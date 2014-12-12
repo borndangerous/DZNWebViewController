@@ -1,14 +1,13 @@
 PODS:
   - DZNWebViewController (3.0)
+  - MMMarkdown (0.3)
 
 DEPENDENCIES:
-  - DZNWebViewController (from `../../DZNWebViewController.podspec`)
-
-EXTERNAL SOURCES:
-  DZNWebViewController:
-    :path: ../../DZNWebViewController.podspec
+  - DZNWebViewController
+  - MMMarkdown
 
 SPEC CHECKSUMS:
-  DZNWebViewController: 50271156811fd1a6dbde7ddf67cb326bd85c3282
+  DZNWebViewController: 73361f52eafcc6fc46a868b8bb2ec3bae65dfe69
+  MMMarkdown: 95af8920c647512d1efa2ac8ac1932baf3266e2c
 
 COCOAPODS: 0.35.0

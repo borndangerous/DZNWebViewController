@@ -12,3 +12,9 @@
 #define COCOAPODS_VERSION_MINOR_DZNWebViewController 0
 #define COCOAPODS_VERSION_PATCH_DZNWebViewController 0
 
+// MMMarkdown
+#define COCOAPODS_POD_AVAILABLE_MMMarkdown
+#define COCOAPODS_VERSION_MAJOR_MMMarkdown 0
+#define COCOAPODS_VERSION_MINOR_MMMarkdown 3
+#define COCOAPODS_VERSION_PATCH_MMMarkdown 0
+
